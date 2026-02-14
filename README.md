@@ -63,7 +63,7 @@ body{
 
 /* Envelope */
 .envelope{
-    width:100%;
+    width:90%;
     max-width:460px;
     height:300px;
     position:relative;
